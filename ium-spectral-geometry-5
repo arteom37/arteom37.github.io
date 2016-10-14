@@ -1,0 +1,21 @@
+
+
+<script type="text/x-mathjax-config">   
+MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}}); </script>
+
+
+
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<html>
+   <body>
+      <h1>Spectral geometry, lecture 5, 11.10 </h1>
+      <h2> Coarea formula </h2>
+      
+ Let $\Omega \rightarrow \mathbb{R}$ be a continuous function and let $f: \Omega \rightarrow \mathbb{R}$ be a smooth one. Let also $G(t)=f^{-1}(t)$ and let $da_{t}$ be a volume form on $G(t)$.
+ Then $dVol = |\nabla f| ^{-1} da_{t} dt}$. 
+    </body>
+</html>
+Contact GitHub API Training Shop Blog About
